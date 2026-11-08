@@ -6,6 +6,7 @@ command -v claude
 claude --version  
 npm install -g @anthropic-ai/claude-code
 curl -fsSL https://claude.ai/install.sh | bash
+claude doctor
 ```
 
 ---

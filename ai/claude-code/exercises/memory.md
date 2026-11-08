@@ -18,7 +18,7 @@ claude
 
 ```bash
 /init
-```bash
+```
 ```bash
 cat /root/myapp/CLAUDE.md
 ```

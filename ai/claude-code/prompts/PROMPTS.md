@@ -16,3 +16,8 @@ Prompt examples collected while learning Claude Code, grouped by the kind of tas
 | [docs](docs/) | README files, comments, docstrings |
 | [plan](plan/) | Plan mode, breaking down tasks, design before coding |
 | [brief](brief/) | Anything that does not fit yet |
+| [redirect](./redirect.md) | Anything that does not fit yet |
+| [num turn](./num_turn.md) | Num turn |
+| [Variable](./variable.md) | Variable |
+| [jq](./jq.md) | jq |
+| [REA](./REA.md) | REA |

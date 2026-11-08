@@ -2,7 +2,8 @@
 
 - [is Claude Code set up?](./set-up.md)
 - [Inside the console](./inside-the-console.md)
-- [is Claude Code set up?](./set-up.md)
+- [clear-compact?](./clear-compact.md)
+- [MCP servers](./mcp.md)
 
 
 

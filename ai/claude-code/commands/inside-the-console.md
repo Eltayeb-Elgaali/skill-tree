@@ -6,6 +6,8 @@
 /help
 /exit
 /permissions
+/doctor
+/checkup
 ```
 
 ---
