@@ -28,6 +28,12 @@
 - [Build a standup skill](./build-a-standup-skill.md)
 - [Turn a repeated task into a command](./turn-a-repeated-task-into-a-command.md)
 - [Build a plugin layout](./build-a-plugin-layout.md)
+- [Challenge: Launch Kit](./foundations-challenge-stand-up-project-end-t-end.md)
+- [Configure status line vim mode and keybinding](./configure-status-line-vim-mode-and-keybinding.md)
+- [Nightly Hygiene Job (cron + headless Claude)](./schedule-a-nightly-hygiene-run.md)
+
+
+
 
 
 

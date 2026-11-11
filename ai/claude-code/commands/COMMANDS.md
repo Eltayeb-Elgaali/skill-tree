@@ -4,6 +4,9 @@
 - [Inside the console](./inside-the-console.md)
 - [clear-compact?](./clear-compact.md)
 - [MCP servers](./mcp.md)
+- [keystrokes](./Keybindings-worth-learning-early.md)
+
+
 
 
 

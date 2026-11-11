@@ -26,6 +26,20 @@
 - [Reusable Prompt Files](./reusable-prompt-files.md)
 - [SKILL.md-anatomy](./SKILL.md-anatomy.md)
 - [Claude Code Plugins](./plugin-anatomy.md)
+- [Checkpoints and /rewind in Claude Code](./checkpoints-and-rewind.md)
+- [Claude Code Foundations](./claude-code-foundations.md)
+- [Vim mode and prompt editing](./Vim-mode-and-prompt-editing.md)
+- [Keybindings, Themes, and the Terminal](./Custom-keybindings-in-keybindings.json.md)
+- [Status Line](./the-status-line.md)
+- [Running Agents on Repeat](./recurring-agent-runs-shell-loops-cron.md)
+
+
+
+
+
+
+
+
 
 
 
